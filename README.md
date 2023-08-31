@@ -1,5 +1,8 @@
 # MyFirstjava22
 ## The first practice to discuss about java
+### Assignment Source Code
+![Source COde](https://github.com/safrizalrahman46/MyFirstjava22/assets/80895732/67ca5d07-c112-43db-a85d-db11ca5f3ad8)
+
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
